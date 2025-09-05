@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Faizan Rasool  
 
 🎓 5th-semester **BS Artificial Intelligence** student at the **University of Management and Technology (UMT)**.  
-💡 Currently exploring **Natural Language Processing (NLP)**, **Machine Learning**, and **Deep Learning** to build intelligent solutions.  
-🚀 Passionate about combining research and practice to solve real-world problems using **AI-driven technologies**.  
+💡 Currently working on **Natural Language Processing (NLP)**, **Machine Learning**, and **Deep Learning**.  
+🚀 Passionate about solving real-world problems with AI-driven systems and writing clean, practical solutions.  
 
 ---
 
@@ -20,31 +20,59 @@
 
 ---
 
-## 📌 My GitHub Repositories  
+## 📌 Featured Repositories  
 
 <p align="center">
-  <a href="https://github.com/Faizanras00l?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=repo1&theme=tokyonight" />
+  <a href="https://github.com/Faizanras00l/Logistic-Regression-Model-for-Airline-Passenger-Satisfaction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=Logistic-Regression-Model-for-Airline-Passenger-Satisfaction&theme=tokyonight&cache_seconds=7200" />
   </a>
-  <a href="https://github.com/Faizanras00l?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=repo2&theme=tokyonight" />
+  <a href="https://github.com/Faizanras00l/pdf-question-answering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=pdf-question-answering&theme=tokyonight&cache_seconds=7200" />
   </a>
 </p>
 
-<!-- You can replace repo1 and repo2 with your actual repositories. 
-     You can add more pairs like this to showcase 4, 6, or 8 repos. -->
+<p align="center">
+  <a href="https://github.com/Faizanras00l/nlp-text-summarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=nlp-text-summarizer&theme=tokyonight&cache_seconds=7200" />
+  </a>
+  <a href="https://github.com/Faizanras00l/yolo-cctv-object-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=yolo-cctv-object-detection&theme=tokyonight&cache_seconds=7200" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Faizanras00l/cricket-bowling-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=cricket-bowling-analyzer&theme=tokyonight&cache_seconds=7200" />
+  </a>
+  <a href="https://github.com/Faizanras00l/Sentiment-analysis-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=Sentiment-analysis-project&theme=tokyonight&cache_seconds=7200" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Faizanras00l/Toxic-Comments-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=Toxic-Comments-Classification&theme=tokyonight&cache_seconds=7200" />
+  </a>
+  <a href="https://github.com/Faizanras00l/LMS-in-DSA-using-CPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=LMS-in-DSA-using-CPP&theme=tokyonight&cache_seconds=7200" />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://github.com/Faizanras00l?tab=repositories"><b>👉 View All My Repositories</b></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizanras00l&theme=tokyonight&show_icons=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizanras00l&theme=tokyonight&show_icons=true&hide_border=false&cache_seconds=7200" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanras00l&theme=tokyonight&hide_border=false" height="150" />
-</p>  
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanras00l&theme=tokyonight&layout=compact&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanras00l&theme=tokyonight&layout=compact&hide_border=false&cache_seconds=7200" height="150" />
 </p>  
 
 ---
