@@ -20,6 +20,18 @@
 
 ---
 
+## 🚀 Highlighted Project  
+
+<p align="center">
+  <a href="https://github.com/Faizanras00l/ASL-Sign-Language-Translator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=ASL-Sign-Language-Translator&theme=tokyonight&cache_seconds=7200" />
+  </a>
+</p>
+
+✨ **ASL Sign Language Translator** — A real-time AI system that detects and translates American Sign Language (ASL) gestures into natural text and speech using **YOLO**, **Computer Vision**, and **NLP**.  
+
+---
+
 ## 📌 Featured Repositories  
 
 <p align="center">
@@ -77,4 +89,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Faizanras00l&icon=0&color=0)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=Faizanras00l&icon=0&color=0)](https://visitcount.itsvg.in)
