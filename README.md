@@ -35,6 +35,15 @@
 ## 📌 Featured Repositories  
 
 <p align="center">
+  <a href="https://github.com/Faizanras00l/cricket-bowling-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=cricket-bowling-analyzer&theme=tokyonight&cache_seconds=7200" />
+  </a>
+  <a href="https://github.com/Faizanras00l/yolo-cctv-object-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=yolo-cctv-object-detection&theme=tokyonight&cache_seconds=7200" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Faizanras00l/Logistic-Regression-Model-for-Airline-Passenger-Satisfaction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=Logistic-Regression-Model-for-Airline-Passenger-Satisfaction&theme=tokyonight&cache_seconds=7200" />
   </a>
@@ -46,15 +55,6 @@
 <p align="center">
   <a href="https://github.com/Faizanras00l/nlp-text-summarizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=nlp-text-summarizer&theme=tokyonight&cache_seconds=7200" />
-  </a>
-  <a href="https://github.com/Faizanras00l/yolo-cctv-object-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=yolo-cctv-object-detection&theme=tokyonight&cache_seconds=7200" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Faizanras00l/cricket-bowling-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=cricket-bowling-analyzer&theme=tokyonight&cache_seconds=7200" />
   </a>
   <a href="https://github.com/Faizanras00l/Sentiment-analysis-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=Sentiment-analysis-project&theme=tokyonight&cache_seconds=7200" />
