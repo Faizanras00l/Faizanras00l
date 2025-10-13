@@ -20,7 +20,17 @@
 
 ---
 
-## 🚀 Highlighted Project  
+## 🚀 Highlighted Projects  
+
+<p align="center">
+  <a href="https://github.com/Faizanras00l/Agentic-Vision-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizanras00l&repo=Agentic-Vision-System&theme=tokyonight&cache_seconds=7200" />
+  </a>
+</p>
+
+✨ **Agentic Vision System** — An intelligent AI-driven framework that integrates **computer vision**, **multi-agent collaboration**, and **autonomous reasoning** to create adaptive visual understanding systems.  
+
+---
 
 <p align="center">
   <a href="https://github.com/Faizanras00l/ASL-Sign-Language-Translator">
