@@ -24,13 +24,13 @@
 
 <p align="center">
   <a href="https://github.com/Faizanras00l/Agentic-Vision-System">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=Agentic-Vision-System&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=Agentic-Vision-System&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Faizanras00l/ASL-Sign-Language-Translator">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=ASL-Sign-Language-Translator&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=ASL-Sign-Language-Translator&theme=tokyonight" />
   </a>
 </p>
 
@@ -40,37 +40,37 @@
 
 <p align="center">
   <a href="https://github.com/Faizanras00l/cricket-bowling-analyzer">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=cricket-bowling-analyzer&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=cricket-bowling-analyzer&theme=tokyonight" />
   </a>
   <a href="https://github.com/Faizanras00l/yolo-cctv-object-detection">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=yolo-cctv-object-detection&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=yolo-cctv-object-detection&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Faizanras00l/Logistic-Regression-Model-for-Airline-Passenger-Satisfaction">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=Logistic-Regression-Model-for-Airline-Passenger-Satisfaction&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=Logistic-Regression-Model-for-Airline-Passenger-Satisfaction&theme=tokyonight" />
   </a>
   <a href="https://github.com/Faizanras00l/pdf-question-answering">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=pdf-question-answering&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=pdf-question-answering&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Faizanras00l/nlp-text-summarizer">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=nlp-text-summarizer&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=nlp-text-summarizer&theme=tokyonight" />
   </a>
   <a href="https://github.com/Faizanras00l/Sentiment-analysis-project">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=Sentiment-analysis-project&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=Sentiment-analysis-project&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Faizanras00l/Toxic-Comments-Classification">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=Toxic-Comments-Classification&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=Toxic-Comments-Classification&theme=tokyonight" />
   </a>
   <a href="https://github.com/Faizanras00l/LMS-in-DSA-using-CPP">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Faizanras00l&repo=LMS-in-DSA-using-CPP&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=LMS-in-DSA-using-CPP&theme=tokyonight" />
   </a>
 </p>
 
@@ -83,12 +83,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Faizanras00l&theme=tokyonight&show_icons=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizanras00l&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faizanras00l&theme=tokyonight&show_icons=true" height="150" />
+  <!-- Streak stats currently unavailable/broken -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizanras00l&theme=tokyonight" height="150" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Faizanras00l&theme=tokyonight&layout=compact" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizanras00l&theme=tokyonight&layout=compact" height="150" />
 </p>
 
 ---
