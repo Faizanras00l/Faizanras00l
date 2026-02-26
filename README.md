@@ -8,9 +8,8 @@
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-rasool-9b151436b/)  
-
 ---
-
+ 
 ## 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=googletranslate&logoColor=white)  
