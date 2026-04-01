@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faizanras00l/Faizanras00l/main/Dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faizanras00l/Faizanras00l/main/Light.png">
+  <img src="https://raw.githubusercontent.com/Faizanras00l/Faizanras00l/main/Light.png" alt="Faizan Rasool — AI Engineer" width="100%">
+</picture>
+
 # 👋 Hi, I'm Faizan Rasool  
 
 🎓 5th-semester **BS Artificial Intelligence** student at the **University of Management and Technology (UMT)**.  
@@ -22,14 +28,20 @@
 ## 🚀 Highlighted Projects  
 
 <p align="center">
-  <a href="https://github.com/Faizanras00l/Agentic-Vision-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=Agentic-Vision-System&theme=tokyonight" />
+  <a href="https://github.com/Faizanras00l/cricket-action-analyzer">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=cricket-action-analyzer&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Faizanras00l/ASL-Sign-Language-Translator">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=ASL-Sign-Language-Translator&theme=tokyonight" />
+  <a href="https://github.com/Faizanras00l/AI-Sign-Language-Translator">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=AI-Sign-Language-Translator&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Faizanras00l/Text-to-Handwriting-Synthesizer">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Faizanras00l&repo=Text-to-Handwriting-Synthesizer&theme=tokyonight" />
   </a>
 </p>
 
